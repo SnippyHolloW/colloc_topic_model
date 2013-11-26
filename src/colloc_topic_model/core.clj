@@ -2,11 +2,6 @@
   (:use [clojure.java.io]
         [clojure.string :only (join split replace-first)]))
 
-(defn foo
-  "I don't do a whole lot."
-  [x]
-  (println x "Hello, World!"))
-
 (defn read-corpus []
   (with-open [rdr (reader "resources/nipscollocation.yld")]
     (let [lines (doall (line-seq rdr))]
@@ -16,11 +11,19 @@
                                  (vec (rest x))]) 
                         (map (fn [x] (split x #" ")) lines)))))))
 
-(defn random-init-topic-boundaries [c]
-  ())
+(defn initialize-doc [n-topics document]
+  (conj (pop (vec 
+               (map (fn [x] (rand-int (+ n-topics 1))) (vec document)))) 
+        (+ (rand-int n-topics) 1)))
+
+(defn random-init-topic-boundaries [corpus n-topics]
+  (into {} (map (fn [id-doc] [(first id-doc) 
+                              (map (partial initialize-doc n-topics) 
+                                   (second id-doc))]) corpus)))
 
 (defn -main [& args]
-  (let [corpus (read-corpus)]
-        ;z (random-init-topic-boundaries corpus)]
-    (prn corpus))
+  (let [n-topics 10
+        corpus (read-corpus)
+        z (random-init-topic-boundaries corpus n-topics)]
+    (prn z))
   )
