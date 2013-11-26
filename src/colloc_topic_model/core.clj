@@ -21,9 +21,15 @@
                               (map (partial initialize-doc n-topics) 
                                    (second id-doc))]) corpus)))
 
+(defn initialize-colloc-topics [n-topics alpha corpus z]
+  ;(vec (repeat n-topics (map (fn [doc-w doc-z] (map (fn [sent-w sent-z] ))) corpus z))))
+  ;TODO
+  )
+
 (defn -main [& args]
   (let [n-topics 10
         corpus (read-corpus)
-        z (random-init-topic-boundaries corpus n-topics)]
+        z (random-init-topic-boundaries corpus n-topics)
+        phi-k (initialize-colloc-topics n-topics alpha corpus z)]
     (prn z))
   )
