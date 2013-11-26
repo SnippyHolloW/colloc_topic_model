@@ -26,6 +26,30 @@
   ;TODO
   )
 
+(defn parse-ut [words indicators buffer accs]
+  (if (= words '())
+    accs
+    (let [ word (first words)
+         ind  (first indicators)]
+         (if (= ind 0)
+           (parse-ut (rest words) (rest indicators) (conj buffer word) accs)
+           (parse-ut (rest words) (rest indicators) [] 
+               (let 
+                 [acc (get accs ind-1)
+                  colloc (conj buffer word)
+                  new-count (+ (get acc colloc 0) 1)]
+                 (assoc accs ind
+                        (assoc acc word new-count))
+                )
+            )
+         )
+    )
+  )
+)
+
+
+
+
 (defn -main [& args]
   (let [n-topics 10
         corpus (read-corpus)
