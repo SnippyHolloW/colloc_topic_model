@@ -1,0 +1,1000 @@
+_1 paper generalizes
+_1 backpropagation method
+_1 general network
+_1 feedback connections
+_1 network model considered consists
+_1 interconnected groups
+_1 neurons
+_1 group
+_1 fully interconnected
+_1 feedback connections
+_1 possibly asymmetric weights
+_1 loops
+_1 groups
+_1 allowed
+_1 stochastic descent algorithm
+_1 applied
+_1 inequality constraint
+_1 intra-group weight matrix
+_1 ensures
+_1 network
+_1 possess
+_1 unique equilibrium
+_1 input
+_1 introduction
+_1 shown
+_1 large networks
+_1 interconnected neuron-like elements re
+_1 suitable
+_1 performing
+_1 variety
+_1 computational
+_1 pattern recognition tasks
+_1 well-known neural network models
+_1 backpropagation model
+_1 elegant
+_1 teaching
+_1 layered feedforward network
+_1 set
+_1 inputoutput examples
+_1 neural network models
+_1 feedback connections
+_1 hand
+_1 lso
+_1 devised
+_1 hopfield network
+_1 shown
+_1 successful
+_1 performing
+_1 computational tasks
+_1 important
+_1 method
+_1 learning
+_1 examples
+_1 feedback network
+_1 general
+_1 design
+_1 avoid
+_1 ad hoc design method
+_1 computational task
+_1 existence
+_1 feedback
+_1 expected
+_1 improve
+_1 computational abilities
+_1 network
+_1 feedback networks
+_1 iterates
+_1 stable
+_1 reached
+_1 processing
+_1 performed
+_1 steps
+_1 recursions
+_1 general
+_1 processing abilities
+_1 single step feedforward case note
+_1 fact
+_1 feedforward network
+_1 special case
+_1 feedback network
+_1 consider
+_1 problem
+_1 developing
+_1 general learning algorithm
+_1 feedback networks
+_1 developing
+_1 learning algorithm
+_1 feedback networks
+_1 pay attention
+_1 figure
+_1 configuration
+_1 feedback network
+_1 network evolves
+_1 goes
+_1 equilibrium
+_1 possibly
+_1 types
+_1 behavior
+_1 periodic
+_1 chaotic motion
+_1 occur
+_1 interested
+_1 steady
+_1 fixed output
+_1 input applied
+_1 network
+_1 important requirements
+_1 network
+_1 beginning
+_1 initial condition
+_1 ultimately
+_1 equilibrium
+_1 requirement
+_1 unique american institute
+_1 physics
+_1 equilibrium
+_1 fact
+_1 equilibrium
+_1 determines
+_1 final output
+_1 objective
+_1 learning algorithm
+_1 adjust
+_1 parameters weights
+_1 network
+_1 small steps
+_1 move
+_1 unique equilibrium
+_1 result finally
+_1 output
+_1 close
+_1 required
+_1 input
+_1 existence
+_1 equilibrium
+_1 input
+_1 problems
+_1 iterations
+_1 updating
+_1 weights
+_1 move
+_1 equilibrium states
+_1 sought direction
+_1 iterations especially
+_1 input examples
+_1 equilibrium
+_1 moved
+_1 important point
+_1 implementing
+_1 network
+_1 completion
+_1 learning
+_1 fixed input
+_1 output
+_1 independently
+_1 appeared recently
+_1 training
+_1 feedback network
+_1 learning algorithms
+_1 developed
+_1 solving
+_1 problem
+_1 ensuring
+_1 unique equilibrium
+_1 considered
+_1 problem
+_1 addressed
+_1 paper
+_1 network
+_1 learning algorithm
+_1 proposed
+_1 recurrent network
+_1 feedback network consider
+_1 group
+_1 neurons
+_1 fully
+_1 figure
+_1 weight matrix
+_1 asymmetric
+_1 opposed
+_1 hopfield network
+_1 inputs
+_1 weighted
+_1 entering
+_1 network
+_1 weight matrix
+_1 input
+_1 output vectors
+_1 fu
+_1 denotes
+_1 transpose operator
+_1 bounded
+_1 differentiable function
+_1 positive constant
+_1 input
+_1 network
+_1 short transient period
+_1 give
+_1 steady
+_1 fixed output
+_1 matter
+_1 initial network
+_1 means
+_1 beginning
+_1 initial condition
+_1 attracted
+_1 unique equilibrium
+_1 leads
+_1 looking
+_1 condition
+_1 matrix
+_1 exhibits
+_1 behavior
+_1 going
+_1 unique equilibrium
+_1 input
+_1 proof
+_1 ut
+_1 solutions
+_1 ii
+_1 wi denotes
+_1 th row
+_1 hypothesis
+_1 theorem
+_1 strictly positive
+_1 fact
+_1 non-negative
+_1 follows
+_1 jt goes
+_1 solutions
+_1 initial conditions ultimately approach
+_1 show
+_1 asymptotic solution
+_1 fact
+_1 equilibrium
+_1 simply takes
+_1 ut
+_1 constant
+_1 applies
+_1 argument
+_1 jt
+_1 cw
+_1 completes
+_1 proof
+_1 sum
+_1 square
+_1 weights
+_1 note
+_1 function
+_1 scaling
+_1 effect
+_1 results
+_1 updating scheme subject
+_1 constraint
+_1 theorem
+_1 cases
+_1 large network
+_1 constraint
+_1 restrictive
+_1 propose
+_1 general network
+_1 explained
+_1 section
+_1 general network
+_1 propose
+_1 network
+_1 refer
+_1 figure
+_1 neurons
+_1 partitioned
+_1 groups
+_1 group
+_1 restrictions
+_1 connections
+_1 group
+_1 fully interconnected
+_1 feedback connections
+_1 groups
+_1 connected
+_1 loops
+_1 inputs
+_1 network
+_1 connected
+_1 inputs
+_1 groups
+_1 input
+_1 connections
+_1 groups
+_1 outputs
+_1 network
+_1 outputs
+_1 part
+_1 outputs
+_1 group
+_1 say group
+_1 constraint
+_1 theorem
+_1 applied
+_1 intra-group weight matrix separately
+_1 qa
+_1 s,
+_1 inputoutput vector pairs
+_1 function
+_1 implemented
+_1 output vector
+_1 group
+_1 giving input
+_1 dimension
+_1 vector
+_1 learning process
+_1 performed
+_1 feeding
+_1 input examples
+_1 sequentially
+_1 network
+_1 weights
+_1 attempt
+_1 minimize
+_1 eor
+_1 general network
+_1 group represents
+_1 recurrent network
+_1 consider
+_1 single group
+_1 intra-group weight matrix
+_1 group
+_1 matrix
+_1 weights
+_1 outputs
+_1 group
+_1 inputs
+_1 group
+_1 yt
+_1 rl
+_1 output vector
+_1 group
+_1 respective elements
+_1 wo
+_1 nt
+_1 number
+_1 neurons
+_1 group
+_1 set
+_1 indices
+_1 groups
+_1 outputs
+_1 connected
+_1 inputs
+_1 group
+_1 iteration
+_1 update
+_1 weight matrices
+_1 rt
+_1 move
+_1 equilibrium
+_1 direction
+_1 decrease
+_1 error
+_1 need
+_1 change
+_1 error produced
+_1 small change
+_1 weight matrices
+_1 oe
+_1 denote
+_1 oe oe
+_1 matrices
+_1 i,j th element
+_1 column vector
+_1 th element
+_1 diagonal matrix
+_1 ita diagonal element
+_1 derivation refer
+_1 appends
+_1 matrix
+_1 wt
+_1 group
+_1 singular
+_1 face
+_1 problem
+_1 updating process
+_1 element
+_1 sides
+_1 dg
+_1 inequalities
+_1 enforced
+_1 follows
+_1 satisfied
+_1 vector
+_1 matrix ai
+_1 wl
+_1 singular
+_1 group yy
+_1 updating
+_1 groups
+_1 noise matrix
+_1 elements axe characterized
+_1 independent zero-mean
+_1 gaussian densities
+_1 parameters
+_1 purpose
+_1 adding noise
+_1 allow escaping local minima
+_1 stuck
+_1 note
+_1 control parameter
+_1 ea
+_1 variance
+_1 added noise tends
+_1 decrease
+_1 approach
+_1 ideal zero-error solution
+_1 makes sense
+_1 large error
+_1 unsatisfactory solution
+_1 pays
+_1 add noise
+_1 weight matrices
+_1 order
+_1 escape local minima
+_1 hand
+_1 error
+_1 small
+_1 possibly
+_1 global minimum
+_1 acceptable solution
+_1 want
+_1 noise
+_1 order
+_1 thrown
+_1 basin
+_1 note
+_1 reach
+_1 ideal zero-error solution
+_1 added noise
+_1 gradient
+_1 increments
+_1 weight matrices
+_1 iteration
+_1 happens
+_1 violate
+_1 constraint
+_1 constant
+_1 elements
+_1 scaled
+_1 project
+_1 surface
+_1 implementation
+_1 pattern recognition
+_1 considered
+_1 figure shows
+_1 set
+_1 two-dimensional training patterns
+_1 classes
+_1 required
+_1 design
+_1 neural network recognizer
+_1 output neurons
+_1 neurons
+_1 sample
+_1 class
+_1 presented
+_1 design
+_1 winner-take-all network
+_1 singlelayer
+_1 neuron feedback network
+_1 implemented
+_1 obtained
+_1 error
+_1 performing
+_1 experiment
+_1 feedforward single-layer network
+_1 neurons
+_1 obtained
+_1 error
+_1 satisfactory results
+_1 feedforward network
+_1 two-layer
+_1 neuron
+_1 layer
+_1 layer
+_1 error
+_1 pattern recognition
+_1 conclusion
+_1 extend
+_1 backpropagation method
+_1 feedback networks
+_1 proposed
+_1 condition
+_1 weight matrix
+_1 obtained
+_1 insure
+_1 fixed point
+_1 prevent
+_1 output
+_1 fixed input
+_1 general structure
+_1 networks
+_1 presented
+_1 network consists
+_1 number
+_1 feedback groups connected
+_1 feedforward manner
+_1 stochastic descent rule
+_1 update
+_1 weights
+_1 method
+_1 applied
+_1 pattern recognition
+_1 single-layer feedback network
+_1 obtained
+_1 results
+_1 hand
+_1 feedforward backpropagation method achieved
+_1 case
+_1 layer
+_1 larger number
+_1 neurons
+_1 feedback case
+_2 artificial neural network
+_2 developed
+_2 recognize
+_2 bipolar patterns
+_2 function
+_2 formal neuron
+_2 generalized
+_2 replacing multiplication
+_2 convolution
+_2 weights
+_2 transfer functions
+_2 thresholding
+_2 nonlinear transform
+_2 adaptation
+_2 hebbian learning rule
+_2 delta learning rule
+_2 generalized
+_2 resulting
+_2 learning
+_2 weights
+_2 delays
+_2 neural network
+_2 developed
+_2 spatial patterns
+_2 generalized
+_2 spario-temporal patterns
+_2 tested
+_2 set
+_2 bipolar input patterns derived
+_2 speech signals
+_2 showing robust classification
+_2 model phonemes
+_2 learning spatio-temporal
+_2 dynamic patterns
+_2 prominent importance
+_2 biological systems
+_2 artificial neural network systems
+_2 biological systems
+_2 relates
+_2 issues
+_2 classical
+_2 operant conditioning
+_2 temporal coordination
+_2 sensorimotor systems
+_2 temporal reasoning
+_2 artificial systems
+_2 addresses
+_2 real-world tasks
+_2 robot control
+_2 speech recognition
+_2 dynamic image processing
+_2 moving target detection
+_2 radars
+_2 eeg diagnosis
+_2 seismic signal processing
+_2 processing elements
+_2 neural network models
+_2 practical applications
+_2 formal neuron
+_2 variations
+_2 elements lack
+_2 memory flexible
+_2 temporal patterns
+_2 limiting
+_2 neural network models previously proposed
+_2 problems
+_2 spatial
+_2 static patterns
+_2 past solutions
+_2 convert
+_2 dynamic problems
+_2 static
+_2 buffer
+_2 storage neurons
+_2 layered network
+_2 feedback
+_2 propose
+_2 paper
+_2 dynamic formal neuron
+_2 processing element
+_2 learning dynamic patterns
+_2 operation
+_2 dynamic neuron
+_2 temporal generalization
+_2 formal neuron
+_2 shown
+_2 paper
+_2 generalization
+_2 straightforward
+_2 activation part
+_2 neuron operation
+_2 expressed
+_2 frequency domain
+_2 existing learning rules
+_2 static patterns
+_2 easily generalized
+_2 dynamic patterns
+_2 show
+_2 examples
+_2 applying
+_2 neural networks
+_2 classifying
+_2 model phonemes
+_2 note
+_2 threshold
+_2 implicitly included
+_2 constant input
+_2 original form
+_2 formal neuron
+_2 xi
+_2 unit step function
+_2 variation
+_2 bipolar formal neuron
+_2 xi
+_2 sign function sgn
+_2 inputs
+_2 output
+_2 converted
+_2 frequency
+_2 spikes
+_2 expressed
+_2 xi
+_2 rectifying function
+_2 node operators
+_2 sigmoidal function
+_2 generalize
+_2 notion
+_2 formal neuron
+_2 input
+_2 output
+_2 functions
+_2 weights
+_2 replaced
+_2 transfer functions
+_2 multiplication
+_2 convolution
+_2 node operator
+_2 nonlinear transform
+_2 adaptation
+_2 observed
+_2 biological systems
+_2 convenience
+_2 denote
+_2 equivalent
+_2 correlating
+_2 bt
+_2 fourier transforms
+_2 ai
+_2 ai
+_2 exist
+_2 yi
+_2 ai
+_2 cr
+_2 conjugate transpose
+_2 correlation
+_2 convolution
+_2 formal neuron
+_2 dynamic formal neuron
+_2 number
+_2 learning rules
+_2 formal neurons
+_2 proposed
+_2 past
+_2 paragraphs
+_2 formulate
+_2 learning problem
+_2 describe
+_2 existing learning rules
+_2 hebbian learning
+_2 delta learning
+_2 examples
+_2 vector
+_2 k-th step
+_2 learning
+_2 leaming rules
+_2 previous section
+_2 generalized
+_2 dynamic formal neuron
+_2 replacing multiplication
+_2 correlation
+_2 problem
+_2 reformulated
+_2 generalized rules
+_2 follows
+_2 vector
+_2 elements
+_2 transfer functions connecting
+_2 input
+_2 neuron
+_2 k-th step
+_2 learning
+_2 generalization procedure
+_2 applied
+_2 learning rules
+_2 linear discriminant systems
+_2 mapping system
+_2 kohonen
+_2 perceptton
+_2 backpropagation model
+_2 system includes
+_2 nonlinear operation
+_2 careful analysis
+_2 pointed
+_2 discussion section
+_2 section reviews
+_2 relation
+_2 delta learning rule
+_2 pseudo-inverse
+_2 technique known
+_2 regularization
+_2 interpretation assumes
+_2 strong
+_2 signal
+_2 output
+_2 learning
+_2 denotes
+_2 expected
+_2 relation
+_2 calculate
+_2 known standard data
+_2 refine
+_2 saving
+_2 early stage
+_2 learning
+_2 solution results
+_2 ill-conditioned iv
+_2 practice
+_2 problem
+_2 ill-posed
+_2 technique known
+_2 regularization
+_2 alleviate
+_2 ill-conditioning
+_2 iv
+_2 statistically equivalent
+_2 input
+_2 additive noise
+_2 variance
+_2 uncorrelated
+_2 equation
+_2 generalized
+_2 network
+_2 dynamic formal neurons
+_2 resulting
+_2 equation similar
+_2 denotes
+_2 inverse fourier transform
+_2 section illustrates
+_2 scheme
+_2 synthesize bipolar phoneme patterns
+_2 form prototype
+_2 test patterns
+_2 fundamental
+_2 formant frequencies
+_2 bandwidths
+_2 phoneroes provided
+_2 parameters
+_2 synthesize
+_2 prototype phoneme patterns
+_2 phoneroes
+_2 labeled
+_2 shown
+_2 table
+_2 array
+_2 input neurons covered
+_2 range
+_2 hz
+_2 neuron
+_2 bipolar
+_2 frequency bands
+_2 phoneme presented
+_2 network
+_2 critical band
+_2 neuron
+_2 center frequencies fc
+_2 critical bands
+_2 obtained
+_2 dividing
+_2 hz range
+_2 log scale
+_2 parameters shown
+_2 table
+_2 construct table
+_2 labels
+_2 phoneroes
+_2 prototype phoneme patterns
+_2 constructed
+_2 combination
+_2 formants
+_2 fundamental frequency fo
+_2 hz
+_2 hz
+_2 added
+_2 phoneme
+_2 voiced
+_2 plosives
+_2 stop
+_2 formant traces start
+_2 resulting bipolar parems
+_2 shown
+_2 pattern
+_2 length
+_2 units
+_2 composed
+_2 linearly interpolating
+_2 frequencies
+_2 formant frequency
+_2 sequence
+_2 phonemes converted
+_2 continuous pronunciation
+_2 digits
+_2 translated
+_2 bipolar pattern
+_2 adding
+_2 units
+_2 transition
+_2 phonemes
+_2 interpolating
+_2 frequency
+_2 bandwidth parameters linearly
+_2 flip noise
+_2 added
+_2 test pattern
+_2 created
+_2 noisy test pattern
+_2 sign
+_2 point
+_2 original clean test pattern
+_2 flipped
+_2 probability
+_2 test patterns
+_2 shown
+_2 figure
+_2 thirty phoneme patterns
+_2 shown
+_2 sequence
+_2 intervals
+_2 units
+_2 network system
+_2 simulated
+_2 classify
+_2 prototype phoneme patterns
+_2 test patterns shown
+_2 section
+_2 generalizing
+_2 scheme developed
+_2 static patterns
+_2 dynamic patterns
+_2 operation
+_2 stages
+_2 clean test pattern
+_2 noisy test pattern
+_2 constant threshold vector
+_2 elements
+_2 kronecker delta function
+_2 models based
+_2 learning rules
+_2 simulated
+_2 parameters shown
+_2 model
+_2 spario-temporal pseudo-inverse filter
+_2 frequency
+_2 finite
+_2 discrete
+_2 simulation
+_2 result
+_2 inverse discrete fourier transform
+_2 aliased
+_2 alleviate
+_2 aliasing
+_2 transfer functions
+_2 prototype matrix xt
+_2 padded
+_2 zeros
+_2 doubling
+_2 lengths
+_2 transfer functions
+_2 change teh result significantly
+_2 results
+_2 shown
+_2 figure
+_2 arrows
+_2 ideal response positions
+_2 end
+_2 phoneme
+_2 program
+_2 run
+_2 thresholds
+_2 adaptation function
+_2 result
+_2 sensitive
+_2 threshold
+_2 affected
+_2 choice
+_2 adaptation function
+_2 maximum number
+_2 iterations
+_2 lateral inhibition network
+_2 converge
+_2 observed
+_2 experiments shown
+_2 figure
+_2 numbers
+_2 model
+_2 missed
+_2 phoneme
+_2 falsely responded
+_2 clean test pattern
+_2 missed
+_2 false response
+_2 noisy test pattern
+_2 model
+_2 correctly recognized
+_2 phonemes
+_2 clean test pattern
+_2 noisy test pattern
+_2 notion
+_2 convolution
+_2 correlation
+_2 models presented
+_2 popular
+_2 engineering disciplines
+_2 applied extensively
+_2 designing filters
+_2 control systems
+_2 operations
+_2 occur
+_2 biological systems
+_2 applied
+_2 modeling neural
+_2 concept
+_2 dynamic formal neuron
+_2 helpful
+_2 improvement
+_2 artificial neural network models
+_2 understanding
+_2 biological systems
+_2 portion
+_2 system
+_2 tank
+_2 hopfield
+_2 similar
+_2 matched filter bank model simulated
+_2 paper
+_2 matched filter bank model model
+_2 performs
+_2 phonemes
+_2 duration
+_2 perform poorly
+_2 lengths
+_2 forced
+_2 maximum length
+_2 input
+_2 transfer functions
+_2 calculation
+_2 pseudo-inverse filter model
+_2 hand
+_2 suffer
+_2 problem
+_2 aspect
+_2 model model
+_2 explicitly simulated
+_2 spatio-temporal pattern
+_2 size
+_2 spatial elements
+_2 temporal elements
+_2 number
+_2 calculations required
+_2 process
+_2 stage
+_2 filtering
+_2 models
+_2 static formal neuron network
+_2 neuron
+_2 connected
+_2 input elements
+_2 cases
+_2 multiplications
+_2 additions
+_2 calculate
+_2 output
